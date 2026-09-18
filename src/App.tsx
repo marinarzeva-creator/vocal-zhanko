@@ -116,7 +116,7 @@ export default function App() {
     setSubmitError(null);
 
     try {
-      const response = await fetch('/api/booking', {
+     const response = await fetch('https://vocal-zhanko.vercel.app/api/booking', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
