@@ -1,0 +1,6 @@
+{
+  "name": "Музичний простір Катерини Жанько",
+  "description": "Затишний творчий простір у Києві (вул. Максима Кривоноса, 27) — уроки вокалу та фортепіано для дорослих та дітей від Катерини Жанько.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
